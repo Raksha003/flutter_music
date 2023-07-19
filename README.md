@@ -1,4 +1,4 @@
-*Made for Credicxo Internship Coding round*
+
 
 - Developed in Flutter using BLoC pattern
 - This app provides the Top ten songs according to MusixMatch non commercial API.
